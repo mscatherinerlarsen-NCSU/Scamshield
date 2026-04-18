@@ -1,0 +1,1 @@
+This was a project for a graduate level vibecoding assignment in a course on Responsible AI and Society. It is designed to compare uploaded audio files and text to various scam databases and provide users with a risk assessment for engagement with the message (i.e., the likelihood of it being a scam).
